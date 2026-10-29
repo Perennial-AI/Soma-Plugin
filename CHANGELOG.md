@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/Perennial-AI/Soma/compare/soma-plugin-v0.2.1...soma-plugin-v0.2.2) (2026-10-29)
+
+
+### Bug Fixes
+
+* **soma-plugin:** README install steps point at the published marketplace ([#302](https://github.com/Perennial-AI/Soma/issues/302)) ([51677c0](https://github.com/Perennial-AI/Soma/commit/51677c04b241e95dc6007455d63154e9a8a8908c))
+
 ## [0.2.1](https://github.com/Perennial-AI/Soma/compare/soma-plugin-v0.2.0...soma-plugin-v0.2.1) (2026-10-29)
 
 

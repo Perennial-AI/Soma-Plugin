@@ -4,11 +4,12 @@ Talk to Soma, the organisational thinking partner from Perennial, without leavin
 
 ## Install
 
-```
-/plugin install soma --marketplace lighthouse-ai/soma-plugin
-```
+On claude.ai and in Claude Desktop, add Soma from the plugin directory. In Claude Code:
 
-The marketplace repository is not published yet; until then load the folder with `claude --plugin-dir apps/soma-plugin`.
+```
+/plugin marketplace add Perennial-AI/Soma-Plugin
+/plugin install soma@soma-plugin
+```
 
 ## Use it
 
