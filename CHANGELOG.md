@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/Perennial-AI/Soma/compare/soma-plugin-v0.2.2...soma-plugin-v0.3.0) (2026-10-29)
+
+
+### Features
+
+* **website,api,soma-plugin:** Plugins documentation page and skill titles ([#305](https://github.com/Perennial-AI/Soma/issues/305)) ([50f3bf5](https://github.com/Perennial-AI/Soma/commit/50f3bf54ff83908c474b9e9693a145db1f261cc5))
+
 ## [0.2.2](https://github.com/Perennial-AI/Soma/compare/soma-plugin-v0.2.1...soma-plugin-v0.2.2) (2026-10-29)
 
 
