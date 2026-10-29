@@ -1,13 +1,14 @@
 {
   "name": "soma",
-  "displayName": "Soma",
-  "version": "0.2.0",
+  "displayName": "Soma – The frontier of leadership",
+  "version": "0.2.1",
   "description": "Talk to Soma, your organisational thinking partner from Perennial, and keep Soma briefed on what you are working on.",
   "author": {
     "name": "Perennial",
     "url": "https://soma.fyi"
   },
   "homepage": "https://soma.fyi",
+  "privacyPolicyUrl": "https://soma.fyi/legal/privacy-policy/",
   "license": "MIT",
   "keywords": [
     "soma",

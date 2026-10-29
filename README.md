@@ -22,3 +22,5 @@ Connect Soma once from the plugin's Connectors tab (claude.ai) or `/mcp` (Claude
 ## Data
 
 Questions and briefs are sent to your Lighthouse workspace at soma.fyi over the same authenticated API the app uses. They appear as conversations and on your "Updates from Claude" page, where you can edit or delete them. Nothing is stored by the plugin itself. Sign-in uses OAuth with your existing Lighthouse account, through soma.fyi, where you choose the workspace Claude may use; no API key is needed.
+
+Privacy: https://soma.fyi/legal/privacy-policy/
