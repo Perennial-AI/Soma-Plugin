@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "soma": {
+      "type": "http",
+      "url": "${SOMA_MCP_URL:-https://api.soma.fyi/mcp}"
+    }
+  }
+}

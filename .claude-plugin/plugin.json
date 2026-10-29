@@ -1,0 +1,19 @@
+{
+  "name": "soma",
+  "displayName": "Soma",
+  "version": "0.2.0",
+  "description": "Talk to Soma, your organisational thinking partner from Perennial, and keep Soma briefed on what you are working on.",
+  "author": {
+    "name": "Perennial",
+    "url": "https://soma.fyi"
+  },
+  "homepage": "https://soma.fyi",
+  "license": "MIT",
+  "keywords": [
+    "soma",
+    "lighthouse",
+    "leadership",
+    "coaching"
+  ],
+  "icon": "./icon.png"
+}

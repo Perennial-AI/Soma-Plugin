@@ -1,0 +1,15 @@
+{
+  "name": "soma-plugin",
+  "description": "Perennial's plugins for Claude: Soma, the organisational thinking partner.",
+  "owner": {
+    "name": "Perennial",
+    "url": "https://soma.fyi"
+  },
+  "plugins": [
+    {
+      "name": "soma",
+      "source": "./",
+      "description": "Talk to Soma, your organisational thinking partner from Perennial, and keep Soma briefed on what you are working on."
+    }
+  ]
+}
