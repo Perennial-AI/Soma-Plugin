@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/Perennial-AI/Soma/compare/soma-plugin-v0.3.0...soma-plugin-v0.3.1) (2026-10-30)
+
+
+### Bug Fixes
+
+* **soma-plugin,website:** listing URLs for support, docs, terms and repository; a support page ([#309](https://github.com/Perennial-AI/Soma/issues/309)) ([f687675](https://github.com/Perennial-AI/Soma/commit/f687675f1342857519b9c4762f18045eab8cf406))
+
 ## [0.3.0](https://github.com/Perennial-AI/Soma/compare/soma-plugin-v0.2.2...soma-plugin-v0.3.0) (2026-10-29)
 
 

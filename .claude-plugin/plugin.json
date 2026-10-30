@@ -1,20 +1,28 @@
 {
   "name": "soma",
   "displayName": "Soma – The frontier of leadership",
-  "version": "0.3.0",
-  "description": "Talk to Soma, your organisational thinking partner from Perennial, and keep Soma briefed on what you are working on.",
+  "version": "0.3.1",
+  "description": "Soma is the organizational thinking partner from Perennial, purpose-built for the frontier of leadership.",
   "author": {
     "name": "Perennial",
     "url": "https://soma.fyi"
   },
   "homepage": "https://soma.fyi",
+  "repository": "https://github.com/Perennial-AI/Soma-Plugin",
+  "documentationUrl": "https://soma.fyi/docs/plugins/",
+  "supportUrl": "https://soma.fyi/support/",
   "privacyPolicyUrl": "https://soma.fyi/legal/privacy-policy/",
+  "termsOfServiceUrl": "https://soma.fyi/legal/terms-of-service/",
   "license": "MIT",
   "keywords": [
     "soma",
-    "lighthouse",
     "leadership",
-    "coaching"
+    "coaching",
+    "teams",
+    "culture",
+    "organizational development",
+    "thinking partner",
+    "workforce sessions"
   ],
   "icon": "./icon.png"
 }
