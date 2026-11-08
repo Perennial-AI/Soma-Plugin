@@ -2,7 +2,7 @@
   "mcpServers": {
     "soma": {
       "type": "http",
-      "url": "${SOMA_MCP_URL:-https://api.soma.fyi/mcp}"
+      "url": "https://api.soma.fyi/mcp"
     }
   }
 }

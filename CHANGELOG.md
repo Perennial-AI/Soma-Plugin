@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/Perennial-AI/Soma/compare/soma-plugin-v0.3.1...soma-plugin-v0.3.2) (2026-11-08)
+
+
+### Bug Fixes
+
+* **soma-plugin:** fixed production URL in .mcp.json ([#313](https://github.com/Perennial-AI/Soma/issues/313)) ([f4bf657](https://github.com/Perennial-AI/Soma/commit/f4bf657b4a0b13c70bebca0d7afdcbbdb1c0a907))
+
 ## [0.3.1](https://github.com/Perennial-AI/Soma/compare/soma-plugin-v0.3.0...soma-plugin-v0.3.1) (2026-10-30)
 
 
